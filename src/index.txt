@@ -1,6 +1,9 @@
 == GitHub 网页Hosting Demo ==
 
 
+link:/BPi-M1Plus-Disk-Creation.html[Bpi M1Plus Create Disk]
+
+
 blablabla
 
 === 标题一 ===

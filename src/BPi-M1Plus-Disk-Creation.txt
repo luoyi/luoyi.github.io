@@ -1,0 +1,11 @@
+== 系统需要处理的文件 List ==
+
+* /etc/pacman.conf
+
+. /etc/pacman.conf
+[source,bash]
+----
+[archphile]
+SigLevel = Never
+Server = http://archphile.org/repo/arm7
+----

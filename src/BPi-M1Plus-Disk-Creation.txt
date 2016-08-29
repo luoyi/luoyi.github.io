@@ -1,3 +1,10 @@
+创建 Banana Pi M1+ Plus 适用的 SD Image
+========================================
+:Author:    Luo Yi
+:Email:     luoyi.ly at gmail dot com
+:Date:      21.08.2016
+:Revision:  1.0.0
+
 == Packages ==
 
 [source,bash]
